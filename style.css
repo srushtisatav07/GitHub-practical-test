@@ -27,3 +27,8 @@ button {
     border-radius: 5px;
     cursor: pointer;
 }
+
+button:hover {
+    background: #e659b2;
+    transition: 0.3s;
+}
