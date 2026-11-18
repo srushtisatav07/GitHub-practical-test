@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background: #85cbf3;
+    color: #1a1212;
+    text-align: center;
+}
+
+header {
+    background: #ededed;
+    color: rgb(10, 10, 10);
+    padding: 40px;
+}
+
+section {
+    background: rgb(243, 239, 239);
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+button {
+    background: #263859;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
